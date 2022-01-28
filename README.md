@@ -5,7 +5,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=rubendsm)
 [![Github](https://img.shields.io/github/followers/rubendsm?label=Follow&style=social)](https://github.com/rubendsm)
 
-<div size='20px'> Olá eu sou o Rúben DSM, bem-vindo ao meu perfil do Github :smile: 
+<div size='20px'> Olá eu sou o Rúben DSM, bem-vindo ao meu perfil do Github <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 
 </div>
 
 <h2> Sobre mim </h2>
@@ -19,7 +19,7 @@
 - Já desenvolvi websites, aplicações para dispositivos móveis.
   
   
-<h2> Segue-me nas redes sociais <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Segue-me nas redes sociais </h2>
 <a href = 'https://www.linkedin.com/in/ruben-dsm-7443b7196/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/rubendsm_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/rubendsm'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
