@@ -28,7 +28,7 @@
 <br>
   <br>
   
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rubendsm/rubendsm/blob/output/github-contribution-grid-snake.svg)
  
 
 | ![Ruben DSM github stats](https://github-readme-stats.vercel.app/api?username=rubendsm&show_icons=true&theme=tokyonight) | ![Ruben DSM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubendsm&theme=tokyonight) |
