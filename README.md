@@ -16,7 +16,7 @@
   
 - Comecei a programar aos 15 anos
   
-- Já desenvolvi websites, aplicações para dispositivos móveis.
+- Já desenvolvi websites, aplicações para dispositivos móveis e software para windows.
   
   
 <h2> Segue-me nas redes sociais </h2>
